@@ -34,10 +34,10 @@
 	define('QA_MYSQL_PORT', '3306');
 */
 
-	define('QA_MYSQL_HOSTNAME', 'localhost');
-	define('QA_MYSQL_USERNAME', 'brainfu');
-	define('QA_MYSQL_PASSWORD', 'gugu@digu##154');
-	define('QA_MYSQL_DATABASE', 'brainfdb');
+	define('QA_MYSQL_HOSTNAME', 'dbhost');
+	define('QA_MYSQL_USERNAME', 'dbuser');
+	define('QA_MYSQL_PASSWORD', 'dbpasswd');
+	define('QA_MYSQL_DATABASE', 'dbname');
 
 /*
 	Ultra-concise installation instructions:
